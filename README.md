@@ -32,12 +32,19 @@
    - Huffman Coding
    - Kruskal's Algorithm
    - Prim's Algorithm
-7. Travelling Salesman Problem
-   8. Scheduling Algorithms
-      - Round Robin Scheduling
-      - Priority Scheduling
-      - Round Robin Scheduling
-      - Priority Scheduling
+   - Travelling Salesman Problem
+8. Scheduling Algorithms
+   - Round Robin Scheduling
+   - Priority Scheduling
+   - Round Robin Scheduling
+   - Priority Scheduling
+## Signal Processing
+
+- Fast Fourier Transform
+   - Image Processing (OpenCV, PIL)
+   - Audio Processing (Librosa)
+   - Video Processing (MoviePy)
+
 ## Mathematical Spaces
 
 The following are important types of mathematical spaces used in advanced mathematics and computer science:
@@ -73,10 +80,12 @@ NP-hard problems are computational problems for which no efficient solution algo
     - TCP/IP Model (4 layers)
     - Protocols (HTTP, FTP, SMTP, etc.) 
 
-Fast Fourier Transform
-   - Image Processing (OpenCV, PIL)
-   - Audio Processing (Librosa)
-   - Video Processing (MoviePy)
+# 4. system design
+   - Scalability
+   - Load Balancing
+   - Caching
+   - Database Sharding
+
 
 
 Upstream 
